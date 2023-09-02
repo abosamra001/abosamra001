@@ -1,14 +1,14 @@
 <h1 align="center">Hi 😊,I'am Mohamed Samir</h1>
 <h3 align="center">Mobile app Developer (Flutter)</h3>
-
+<--!
 <h4 align="left">I'm currently learing...</h4>
 <ul>
- 
   <li>backend development (PHP Laravel)</li>
   <li>database (MySQL)</li>
   <li>API</li>
   <li>Firebase</li>
 </ul>
+ -->
 Contact with me 👉 mosamir916@gmail.com
 
 <h3 align="left">Other links:</h3>
